@@ -9,6 +9,8 @@ export const metadata: Metadata = {
   description: "Airbnb | Holiday rentals, cabins, beach houses & more",
 };
 
+export const dynamic = "force-dynamic";
+
 export default function RootLayout({
   children,
 }: Readonly<{
