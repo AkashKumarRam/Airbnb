@@ -1,0 +1,9 @@
+/* Categories.module.css */
+.container::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .container {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
