@@ -24,13 +24,12 @@ import { useRouter } from 'next/navigation';
 import SocialBtns from './SocialBtns';
 
 
-
 export default function LoginModal() {
 
-    const [open,setOpen] = useState<boolean>(false)
-    const [loading,setLoading] = useState<boolean>(false)
-    const router = useRouter()
-    const supabase = createClientComponentClient()
+    const [open,setOpen] = useState<boolean>(false);
+    const [loading,setLoading] = useState<boolean>(false);
+    const router = useRouter();
+    const supabase = createClientComponentClient();
 
     const {
         register,
@@ -91,9 +90,7 @@ export default function LoginModal() {
                                 <Button className='bg-brand w-full' disabled={loading}>{loading ? "Processing" : "Continue"}</Button>
                             </div>
 
-                            <h1 className='text-center my-2 text-xl font-bold'> -- OR -- </h1>
-
-                           
+                            <h1 className='text-center my-2 text-xl font-bold'> -- OR -- </h1>                          
                         </form>
                         <SocialBtns/>
                         </div>
