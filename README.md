@@ -27,7 +27,7 @@ Explore our **Full Stack Airbnb clone!** Utilizing **TypeScript**, **Tailwind CS
 
 ## Screenshots
 
-![App Screenshot](https://pasteboard.co/plrXEzNYvgig.png)
+![Airbnb App Screenshot](https://github.com/AkashKumarRam/Airbnb/assets/114729514/002dd29f-d98e-4804-915a-4962ec1ede9f)
 
 
 ## Demo
