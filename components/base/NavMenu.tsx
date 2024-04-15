@@ -14,7 +14,7 @@ import Link from 'next/link'
 export default function NavMenu({ session }: { session: object | undefined }) {
     return (
         <Popover>
-            <PopoverTrigger asChild><MenuIcon /></PopoverTrigger>
+            <PopoverTrigger asChild className='cursor-pointer'><MenuIcon /></PopoverTrigger>
             <PopoverContent className='mr-6'>
                 <ul>
                     {session ? (
