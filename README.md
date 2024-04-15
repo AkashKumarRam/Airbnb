@@ -27,7 +27,20 @@ Explore our **Full Stack Airbnb clone!** Utilizing **TypeScript**, **Tailwind CS
 
 ## Screenshots
 
-![Airbnb App Screenshot](https://github.com/AkashKumarRam/Airbnb/assets/114729514/002dd29f-d98e-4804-915a-4962ec1ede9f)
+![Airbnb Home Page](https://github.com/AkashKumarRam/Airbnb/assets/114729514/fc5fcb55-b6f6-47f8-8151-95d430a52c47)
+
+![Airbnb Hotel Details Page](https://github.com/AkashKumarRam/Airbnb/assets/114729514/0190bb8c-32fb-4ff9-b0de-147897e340f6)
+
+![Airbnb Search Page](https://github.com/AkashKumarRam/Airbnb/assets/114729514/7163d154-6c9d-4c3b-bd38-46b03c189159)
+
+![Airbnb Hotel Login Page](https://github.com/AkashKumarRam/Airbnb/assets/114729514/c9bb36ed-0746-4e55-818d-25be647c0a61)
+
+![Airbnb Hotel Signup Page](https://github.com/AkashKumarRam/Airbnb/assets/114729514/29bea577-3c77-4532-a24b-9bf9b2e6d9f6)
+
+![Airbnb Add Home Page](https://github.com/AkashKumarRam/Airbnb/assets/114729514/9ac1073d-7f03-48fe-98e9-5dfd3089e5f7)
+
+
+![Airbnb Dashboard Page](https://github.com/AkashKumarRam/Airbnb/assets/114729514/bed51566-7e0c-42d8-b1f7-fc9f5f72c24a)
 
 
 ## Demo
