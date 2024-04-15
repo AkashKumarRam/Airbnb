@@ -25,10 +25,10 @@ import SocialBtns from './SocialBtns';
 
 export default function SignupModal() {
 
-    const [open, setOpen] = useState<boolean>(false)
-    const [loading, setLoading] = useState<boolean>(false)
-    const supabase = createClientComponentClient()
-    const router = useRouter()
+    const [open, setOpen] = useState<boolean>(false);
+    const [loading, setLoading] = useState<boolean>(false);
+    const supabase = createClientComponentClient();
+    const router = useRouter();
 
     const {
         register,
